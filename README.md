@@ -1,5 +1,8 @@
 # gramv1_data_migration_script
 
+ATTENTION : Le script n'est pas pret pour la prod.
+Enregistrement des UUID dans le LDAP à finaliser (en attente de la préparation du LDAP INFRA-891)
+
 ## Fonctionnement
 
 1. Récupère la liste des comptes du LDAP GrAM
