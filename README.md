@@ -9,6 +9,8 @@
 5. Crée un CSV à destination du script d'import du site SOCE
 6. Enregistre les UUID dans les comptes LDAP
 
+Les CSV sont créés dans le dossier `/OUT`
+
 ## Installation
 
 Créer le fichier config.yml à la racine
