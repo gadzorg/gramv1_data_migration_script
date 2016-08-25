@@ -1,0 +1,8 @@
+default: &default  
+  ldap_host: localhost
+  ldap_port: 389
+  ldap_base: ou=gram,dc=gadz,dc=org
+  ldap_bind_dn: 
+  ldap_password: 
+no_env:
+  <<: *default

@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+# encoding: utf-8
+
+require File.join(File.dirname(__FILE__),"gramv1_extractor.rb")
+require 'irb'
+IRB.start
